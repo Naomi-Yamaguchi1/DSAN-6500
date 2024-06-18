@@ -11,7 +11,7 @@ Here is the link the Project 2 description with comments: https://docs.google.co
 Tiana prefers Contributor 1. Please let me know if you would like to change anything around; I'm open to suggestions.  
 
 Contributor 1 - Tiana  
-Contributor 2 -   
+Contributor 2 -  Ishaan 
 Contributor 3 -   
 
 This is due for submission on Saturday June 22, but let's aim for Friday night, June 21. Ishaan is away starting Wednesday, June 19th, and can work on the assignment on June 17, 18.
