@@ -1,7 +1,7 @@
 # Automated Classification of Tumor Infiltrating Lymphocytes in Breast Cancer Using Deep Learning Techniques
-Tiana Le, Naomi Yamaguchi, Ishaan Babbar (Group 4)
-Georgetown University
-August 3rd, 2024
+Tiana Le, Naomi Yamaguchi, Ishaan Babbar (Group 4)  
+Georgetown University  
+August 3rd, 2024  
 
 
 ## Abstract
